@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Jiawei&#39;s Blog</title>
+  <title>Jiawei Xu&#39;s blog</title>
   
   
   <link href="https://jiaweixu98.github.io/jiaweiBlog/atom.xml" rel="self"/>
   
   <link href="https://jiaweixu98.github.io/jiaweiBlog/"/>
-  <updated>2023-04-16T15:01:41.813Z</updated>
+  <updated>2023-04-16T16:54:32.850Z</updated>
   <id>https://jiaweixu98.github.io/jiaweiBlog/</id>
   
   <author>
@@ -17,12 +17,20 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>my-secblog</title>
-    <link href="https://jiaweixu98.github.io/jiaweiBlog/2023/04/16/my-secblog/"/>
-    <id>https://jiaweixu98.github.io/jiaweiBlog/2023/04/16/my-secblog/</id>
-    <published>2023-04-16T15:01:41.000Z</published>
-    <updated>2023-04-16T15:01:41.813Z</updated>
+    <title>第一篇博客</title>
+    <link href="https://jiaweixu98.github.io/jiaweiBlog/2023/04/17/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
+    <id>https://jiaweixu98.github.io/jiaweiBlog/2023/04/17/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</id>
+    <published>2023-04-16T16:44:32.000Z</published>
+    <updated>2023-04-16T16:54:32.850Z</updated>
     
+    <content type="html"><![CDATA[<p>会有正文吗。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;会有正文吗。&lt;/p&gt;
+</summary>
+      
     
     
     

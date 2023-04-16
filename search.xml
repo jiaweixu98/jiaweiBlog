@@ -4,11 +4,11 @@
   
     
     <entry>
-      <title>my-secblog</title>
-      <link href="/jiaweiBlog/2023/04/16/my-secblog/"/>
-      <url>/jiaweiBlog/2023/04/16/my-secblog/</url>
+      <title>第一篇博客</title>
+      <link href="/jiaweiBlog/2023/04/17/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
+      <url>/jiaweiBlog/2023/04/17/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<p>会有正文吗。</p>]]></content>
       
       
       
@@ -17,6 +17,50 @@
     
   
   
+    
+    
+    <entry>
+      <title></title>
+      <link href="/jiaweiBlog/friends/index.html"/>
+      <url>/jiaweiBlog/friends/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>search</title>
+      <link href="/jiaweiBlog/search/index.html"/>
+      <url>/jiaweiBlog/search/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>tags</title>
+      <link href="/jiaweiBlog/tags/index.html"/>
+      <url>/jiaweiBlog/tags/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>categories</title>
+      <link href="/jiaweiBlog/categories/index.html"/>
+      <url>/jiaweiBlog/categories/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
     
   
 </search>
