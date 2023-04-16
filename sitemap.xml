@@ -2,7 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://jiaweixu98.github.io/jiaweiBlog/2023/04/17/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</loc>
+    <loc>https://jiaweixu98.github.io/jiaweiBlog/2023/04/17/building%20your%20own%20blog/</loc>
+    
+    <lastmod>2023-04-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://jiaweixu98.github.io/jiaweiBlog/me/index.html</loc>
     
     <lastmod>2023-04-16</lastmod>
     
@@ -54,6 +63,34 @@
     <priority>1.0</priority>
   </url>
 
+  
+  <url>
+    <loc>https://jiaweixu98.github.io/jiaweiBlog/tags/blog/</loc>
+    <lastmod>2023-04-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://jiaweixu98.github.io/jiaweiBlog/tags/GitHub-pages/</loc>
+    <lastmod>2023-04-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://jiaweixu98.github.io/jiaweiBlog/tags/hexo/</loc>
+    <lastmod>2023-04-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://jiaweixu98.github.io/jiaweiBlog/tags/cards-theme/</loc>
+    <lastmod>2023-04-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 
   

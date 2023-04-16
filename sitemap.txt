@@ -1,6 +1,11 @@
-https://jiaweixu98.github.io/jiaweiBlog/2023/04/17/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/
+https://jiaweixu98.github.io/jiaweiBlog/2023/04/17/building%20your%20own%20blog/
+https://jiaweixu98.github.io/jiaweiBlog/me/index.html
 https://jiaweixu98.github.io/jiaweiBlog/friends/index.html
 https://jiaweixu98.github.io/jiaweiBlog/categories/index.html
 https://jiaweixu98.github.io/jiaweiBlog/tags/index.html
 https://jiaweixu98.github.io/jiaweiBlog/search/index.html
 https://jiaweixu98.github.io/jiaweiBlog
+https://jiaweixu98.github.io/jiaweiBlog/tags/blog/
+https://jiaweixu98.github.io/jiaweiBlog/tags/GitHub-pages/
+https://jiaweixu98.github.io/jiaweiBlog/tags/hexo/
+https://jiaweixu98.github.io/jiaweiBlog/tags/cards-theme/

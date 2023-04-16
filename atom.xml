@@ -6,7 +6,7 @@
   <link href="https://jiaweixu98.github.io/jiaweiBlog/atom.xml" rel="self"/>
   
   <link href="https://jiaweixu98.github.io/jiaweiBlog/"/>
-  <updated>2023-04-16T16:54:32.850Z</updated>
+  <updated>2023-04-16T17:26:16.082Z</updated>
   <id>https://jiaweixu98.github.io/jiaweiBlog/</id>
   
   <author>
@@ -17,23 +17,30 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>第一篇博客</title>
-    <link href="https://jiaweixu98.github.io/jiaweiBlog/2023/04/17/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
-    <id>https://jiaweixu98.github.io/jiaweiBlog/2023/04/17/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</id>
+    <title>Building your own blog websites</title>
+    <link href="https://jiaweixu98.github.io/jiaweiBlog/2023/04/17/building%20your%20own%20blog/"/>
+    <id>https://jiaweixu98.github.io/jiaweiBlog/2023/04/17/building%20your%20own%20blog/</id>
     <published>2023-04-16T16:44:32.000Z</published>
-    <updated>2023-04-16T16:54:32.850Z</updated>
+    <updated>2023-04-16T17:26:16.082Z</updated>
     
-    <content type="html"><![CDATA[<p>会有正文吗。</p>]]></content>
+    <content type="html"><![CDATA[<p>By <a href="https://hexo.io/">hexo</a> and GitHub <a href="https://pages.github.com/">Pages</a>, you can quickly build your blog website.</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;会有正文吗。&lt;/p&gt;
-</summary>
+    <summary type="html">&lt;p&gt;By &lt;a href=&quot;https://hexo.io/&quot;&gt;hexo&lt;/a&gt; and GitHub &lt;a href=&quot;https://pages.github.com/&quot;&gt;Pages&lt;/a&gt;, you can quickly build your blog website.</summary>
       
     
     
     
+    
+    <category term="blog" scheme="https://jiaweixu98.github.io/jiaweiBlog/tags/blog/"/>
+    
+    <category term="GitHub pages" scheme="https://jiaweixu98.github.io/jiaweiBlog/tags/GitHub-pages/"/>
+    
+    <category term="hexo" scheme="https://jiaweixu98.github.io/jiaweiBlog/tags/hexo/"/>
+    
+    <category term="cards theme" scheme="https://jiaweixu98.github.io/jiaweiBlog/tags/cards-theme/"/>
     
   </entry>
   
