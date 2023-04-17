@@ -8,4 +8,4 @@ https://jiaweixu98.github.io/jiaweiBlog
 https://jiaweixu98.github.io/jiaweiBlog/tags/blog/
 https://jiaweixu98.github.io/jiaweiBlog/tags/GitHub-pages/
 https://jiaweixu98.github.io/jiaweiBlog/tags/hexo/
-https://jiaweixu98.github.io/jiaweiBlog/tags/cards-theme/
+https://jiaweixu98.github.io/jiaweiBlog/tags/project-demo/

@@ -8,7 +8,7 @@
       <link href="/jiaweiBlog/2023/04/17/building%20your%20own%20blog/"/>
       <url>/jiaweiBlog/2023/04/17/building%20your%20own%20blog/</url>
       
-        <content type="html"><![CDATA[<p>By <a href="https://hexo.io/">hexo</a> and GitHub <a href="https://pages.github.com/">Pages</a>, you can quickly build your blog website.</p>]]></content>
+        <content type="html"><![CDATA[<p>By <a href="https://hexo.io/">hexo</a> and GitHub <a href="https://pages.github.com/">Pages</a>, you can quickly build your blog website.</p><p>How to build an interactive graph with Plotly and deploy it on static pages like  GitHub <a href="https://pages.github.com/">Pages</a>?</p><p>See this <a href="https://github.com/jiaweixu98/project-website-template%3E">project-website-template</a> and a <a href="https://github.com/jiaweixu98/ScientistsWithDatasets">plotly instance</a> for more information.</p>]]></content>
       
       
       
@@ -20,7 +20,7 @@
             
             <tag> hexo </tag>
             
-            <tag> cards theme </tag>
+            <tag> project demo </tag>
             
         </tags>
       
@@ -29,17 +29,6 @@
     
   
   
-    
-    
-    <entry>
-      <title>search</title>
-      <link href="/jiaweiBlog/search/index.html"/>
-      <url>/jiaweiBlog/search/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
     
     
     <entry>
@@ -54,22 +43,33 @@
     
     
     <entry>
-      <title>About</title>
-      <link href="/jiaweiBlog/me/index.html"/>
-      <url>/jiaweiBlog/me/index.html</url>
+      <title>categories</title>
+      <link href="/jiaweiBlog/categories/index.html"/>
+      <url>/jiaweiBlog/categories/index.html</url>
       
-        <content type="html"><![CDATA[<!-- [Personal Website](https://jiaweixu98.github.io/). --><p>I am currently a master’s student at the Department of information management at Peking University. I will pursue my Ph.D. in Information Studies at the University of Texas at Austin. My research interests rely on data-driven science of science. Happy to see your email: <a href="mailto:&#105;&#x6d;&#x78;&#x75;&#x6a;&#105;&#97;&#119;&#x65;&#x69;&#x40;&#x70;&#107;&#x75;&#46;&#x65;&#x64;&#x75;&#x2e;&#99;&#110;">&#105;&#x6d;&#x78;&#x75;&#x6a;&#105;&#97;&#119;&#x65;&#x69;&#x40;&#x70;&#107;&#x75;&#46;&#x65;&#x64;&#x75;&#x2e;&#99;&#110;</a></p><p>Website: <a href="https://jiaweixu98.github.io/">https://jiaweixu98.github.io/</a></p>]]></content>
+        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
     
     
     <entry>
-      <title>categories</title>
-      <link href="/jiaweiBlog/categories/index.html"/>
-      <url>/jiaweiBlog/categories/index.html</url>
+      <title>search</title>
+      <link href="/jiaweiBlog/search/index.html"/>
+      <url>/jiaweiBlog/search/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>About</title>
+      <link href="/jiaweiBlog/me/index.html"/>
+      <url>/jiaweiBlog/me/index.html</url>
+      
+        <content type="html"><![CDATA[<!-- [Personal Website](https://jiaweixu98.github.io/). --><p>I am currently a master’s student at the Department of information management at Peking University. I will pursue my Ph.D. in Information Studies at the University of Texas at Austin. My research interests rely on data-driven science of science. Happy to see your email: <a href="mailto:&#x69;&#109;&#120;&#117;&#x6a;&#105;&#97;&#x77;&#101;&#105;&#x40;&#112;&#x6b;&#x75;&#46;&#x65;&#100;&#x75;&#46;&#x63;&#110;">&#x69;&#109;&#120;&#117;&#x6a;&#105;&#97;&#x77;&#101;&#105;&#x40;&#112;&#x6b;&#x75;&#46;&#x65;&#100;&#x75;&#46;&#x63;&#110;</a></p><p>Website: <a href="https://jiaweixu98.github.io/">https://jiaweixu98.github.io/</a></p>]]></content>
       
     </entry>
     

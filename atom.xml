@@ -6,7 +6,7 @@
   <link href="https://jiaweixu98.github.io/jiaweiBlog/atom.xml" rel="self"/>
   
   <link href="https://jiaweixu98.github.io/jiaweiBlog/"/>
-  <updated>2023-04-16T17:26:16.082Z</updated>
+  <updated>2023-04-17T09:35:51.503Z</updated>
   <id>https://jiaweixu98.github.io/jiaweiBlog/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="https://jiaweixu98.github.io/jiaweiBlog/2023/04/17/building%20your%20own%20blog/"/>
     <id>https://jiaweixu98.github.io/jiaweiBlog/2023/04/17/building%20your%20own%20blog/</id>
     <published>2023-04-16T16:44:32.000Z</published>
-    <updated>2023-04-16T17:26:16.082Z</updated>
+    <updated>2023-04-17T09:35:51.503Z</updated>
     
-    <content type="html"><![CDATA[<p>By <a href="https://hexo.io/">hexo</a> and GitHub <a href="https://pages.github.com/">Pages</a>, you can quickly build your blog website.</p>]]></content>
+    <content type="html"><![CDATA[<p>By <a href="https://hexo.io/">hexo</a> and GitHub <a href="https://pages.github.com/">Pages</a>, you can quickly build your blog website.</p><p>How to build an interactive graph with Plotly and deploy it on static pages like  GitHub <a href="https://pages.github.com/">Pages</a>?</p><p>See this <a href="https://github.com/jiaweixu98/project-website-template%3E">project-website-template</a> and a <a href="https://github.com/jiaweixu98/ScientistsWithDatasets">plotly instance</a> for more information.</p>]]></content>
     
     
       
@@ -40,7 +40,7 @@
     
     <category term="hexo" scheme="https://jiaweixu98.github.io/jiaweiBlog/tags/hexo/"/>
     
-    <category term="cards theme" scheme="https://jiaweixu98.github.io/jiaweiBlog/tags/cards-theme/"/>
+    <category term="project demo" scheme="https://jiaweixu98.github.io/jiaweiBlog/tags/project-demo/"/>
     
   </entry>
   
