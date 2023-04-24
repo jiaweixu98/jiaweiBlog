@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://jiaweixu98.github.io/jiaweiBlog/2023/04/24/how-to-visualize-one-billion-high-dimensional-embeddings-in-a-scatter-plot-quickly/</loc>
+    
+    <lastmod>2023-04-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://jiaweixu98.github.io/jiaweiBlog/2023/04/17/building%20your%20own%20blog/</loc>
     
     <lastmod>2023-04-17</lastmod>
@@ -58,7 +67,7 @@
 
   <url>
     <loc>https://jiaweixu98.github.io/jiaweiBlog</loc>
-    <lastmod>2023-04-17</lastmod>
+    <lastmod>2023-04-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -66,28 +75,28 @@
   
   <url>
     <loc>https://jiaweixu98.github.io/jiaweiBlog/tags/blog/</loc>
-    <lastmod>2023-04-17</lastmod>
+    <lastmod>2023-04-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://jiaweixu98.github.io/jiaweiBlog/tags/GitHub-pages/</loc>
-    <lastmod>2023-04-17</lastmod>
+    <lastmod>2023-04-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://jiaweixu98.github.io/jiaweiBlog/tags/hexo/</loc>
-    <lastmod>2023-04-17</lastmod>
+    <lastmod>2023-04-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://jiaweixu98.github.io/jiaweiBlog/tags/project-demo/</loc>
-    <lastmod>2023-04-17</lastmod>
+    <lastmod>2023-04-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>

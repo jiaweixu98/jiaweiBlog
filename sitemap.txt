@@ -1,3 +1,4 @@
+https://jiaweixu98.github.io/jiaweiBlog/2023/04/24/how-to-visualize-one-billion-high-dimensional-embeddings-in-a-scatter-plot-quickly/
 https://jiaweixu98.github.io/jiaweiBlog/2023/04/17/building%20your%20own%20blog/
 https://jiaweixu98.github.io/jiaweiBlog/me/index.html
 https://jiaweixu98.github.io/jiaweiBlog/friends/index.html

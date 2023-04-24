@@ -6,7 +6,7 @@
   <link href="https://jiaweixu98.github.io/jiaweiBlog/atom.xml" rel="self"/>
   
   <link href="https://jiaweixu98.github.io/jiaweiBlog/"/>
-  <updated>2023-04-17T09:35:51.503Z</updated>
+  <updated>2023-04-24T09:54:23.419Z</updated>
   <id>https://jiaweixu98.github.io/jiaweiBlog/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>how to visualize one billion high-dimensional embeddings in a scatter plot quickly?</title>
+    <link href="https://jiaweixu98.github.io/jiaweiBlog/2023/04/24/how-to-visualize-one-billion-high-dimensional-embeddings-in-a-scatter-plot-quickly/"/>
+    <id>https://jiaweixu98.github.io/jiaweiBlog/2023/04/24/how-to-visualize-one-billion-high-dimensional-embeddings-in-a-scatter-plot-quickly/</id>
+    <published>2023-04-24T09:46:20.000Z</published>
+    <updated>2023-04-24T09:54:23.419Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Atlas"><a href="#Atlas" class="headerlink" title="Atlas"></a>Atlas</h1><h2 id="Visualize-Your-High-dimensional-Data-Online"><a href="#Visualize-Your-High-dimensional-Data-Online" class="headerlink" title="Visualize Your High-dimensional Data Online"></a><em>Visualize Your High-dimensional Data Online</em></h2><p>Recently, I have been working on High-dimensional Data visualization.<br>Nomic-AI’s <a href="https://atlas.nomic.ai/">Atlas</a> maybe a good choice.</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;Atlas&quot;&gt;&lt;a href=&quot;#Atlas&quot; class=&quot;headerlink&quot; title=&quot;Atlas&quot;&gt;&lt;/a&gt;Atlas&lt;/h1&gt;&lt;h2 id=&quot;Visualize-Your-High-dimensional-Data-Online&quot;&gt;&lt;a href=</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Building your own blog websites</title>
